@@ -16,7 +16,6 @@ Set up Ubuntu VM
 Installed and ran Nginx web server
 Learning basic Linux commands
 
-Screenshots
 
 
 
